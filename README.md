@@ -18,4 +18,4 @@ This repository contains the **main parts only** for a simple PHP OOP property m
 3. Serve `public/` as document root: `php -S localhost:8000 -t public`.
 4. Use `Authorization: Bearer <token>` for protected endpoints.
 
-This snapshot is intentionally concise for GitHub showcase. Replace the demo token with a proper auth mechanism (JWT/Passport) in production.
+This snapshot is intentionally concise for GitHub showcase.
